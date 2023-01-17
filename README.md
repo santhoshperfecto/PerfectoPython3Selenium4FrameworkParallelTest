@@ -28,7 +28,7 @@ Install pytest and pytest-xdist(for parallel testing)
 3. Replace "security token" with your perfecto security token.
 
 
-4. Update associated browser options as needed ro leave as is.
+4. Update associated browser options as needed or leave as is.
 
 
 
